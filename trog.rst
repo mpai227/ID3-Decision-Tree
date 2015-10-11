@@ -1,0 +1,3 @@
+The oracle is reading your predictions from trog.sub...
+**** File Syntax Error on line 2
+**** 2nd rightmost token on line should be ->
